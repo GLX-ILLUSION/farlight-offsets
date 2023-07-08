@@ -35,7 +35,7 @@
       "SolarItemData":"0x268",
       "Config":"0x5d8",
       "CurrentClipAmmo":"0x678",
-      "WeaponType":"0x70",
+      "WeaponType":"0x90",
       "PrimaryAmmoCap":"0x2c4",
       "InitSpeed":"0xe0",
       "ProjectileMaxGravity":"0x544",
