@@ -28,7 +28,7 @@
       "AActorID":"0x18",
       "BoneArray":"0x598",
       "ComponentToWorld":"0x250",
-      "CachedCurrentWeapon":"0x1ed8",
+      "CachedCurrentWeapon":"0x1ee8",
       "RecoilComponent":"0x600",
       "CharacterType":"0x6a0",
       "ComponentVelocity":"0x140",
@@ -41,6 +41,7 @@
       "InitSpeed":"0xe0",
       "ProjectileMaxGravity":"0x544",
       "WeaponConfig":"0xd0",
-      "PrimaryAmmo":"0x2b8"
+      "PrimaryAmmo":"0x2b8",
+      "bIsSameTeamWithLocalPlayer":"0x640"
    }
 }
