@@ -1,7 +1,7 @@
 {
    "offsets":{
-      "GNames":"0x65F0180‬",
-      "GWorld":"0x675FBB0‬",
+      "GNames":"0x65F0180",
+      "GWorld":"0x675FBB0",
       "CameraManager":"0x2d8",
       "CameraCache":"0x1bf0",
       "PersistentLevel":"0x30",
