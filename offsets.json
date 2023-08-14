@@ -40,7 +40,7 @@
       "ProjectileMaxGravity":"0x514",
       "WeaponConfig":"0xd0",
       "PrimaryAmmo":"0x2d8",
-      "bIsSameTeamWithLocalPlayer":"0xa60",
+      "bIsSameTeamWithLocalPlayer":"0xa68",
       "KillNum":"0x728"      
    }
 }
