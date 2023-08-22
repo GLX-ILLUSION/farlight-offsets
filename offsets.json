@@ -19,14 +19,14 @@
       "oHealth":"0x580",
       "oMaxHealth":"0x584",
       "oShield":"0x1100",
-      "oMaxShield":"0x10f4",
+      "oMaxShield":"0x10F4",
       "PlayerNamePrivate":"0x320",
       "bIsABot":"0x232",
       "OS":"0x638",
       "AActorID":"0x18",
       "BoneArray":"0x598",
       "ComponentToWorld":"0x250",
-      "CachedCurrentWeapon":"0x1a18",
+      "CachedCurrentWeapon":"0x1A30",
       "RecoilComponent":"0x598",
       "CharacterType":"0xa9a",
       "ComponentVelocity":"0x140",
@@ -41,6 +41,6 @@
       "WeaponConfig":"0xd0",
       "PrimaryAmmo":"0x2d8",
       "bIsSameTeamWithLocalPlayer":"0x0A78",
-      "KillNum":"0x728"      
+      "KillNum":"0x0738"      
    }
 }
