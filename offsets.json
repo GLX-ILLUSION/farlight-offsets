@@ -1,7 +1,7 @@
 {
    "offsets":{
-      "GNames":"0x6645540",
-      "GWorld":"0x67B5040",
+      "GNames":"0x6645580",
+      "GWorld":"0x67B5080",
       "CameraManager":"0x2d8",
       "CameraCache":"0x1bf0",
       "PersistentLevel":"0x30",
@@ -40,7 +40,7 @@
       "ProjectileMaxGravity":"0x514",
       "WeaponConfig":"0xd0",
       "PrimaryAmmo":"0x2d8",
-      "bIsSameTeamWithLocalPlayer":"0xa78",
+      "bIsSameTeamWithLocalPlayer":"0xa88",
       "KillNum":"0x0738"      
    }
 }
