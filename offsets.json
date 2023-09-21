@@ -22,7 +22,7 @@
       "oMaxShield":"0x10F4",
       "PlayerNamePrivate":"0x0320",
       "bIsABot":"0x232",
-      "OS":"0x638",
+      "OS":"0x0640",
       "AActorID":"0x18",
       "BoneArray":"0x598",
       "ComponentToWorld":"0x250",
@@ -41,6 +41,6 @@
       "WeaponConfig":"0xd0",
       "PrimaryAmmo":"0x2d8",
       "bIsSameTeamWithLocalPlayer":"0x0A98",
-      "KillNum":"0x0738"      
+      "KillNum":"0x0740"      
    }
 }
